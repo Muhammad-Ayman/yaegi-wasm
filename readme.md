@@ -183,3 +183,13 @@ yaegi-wasm/
 - WebAssembly file will be ~10-20MB (includes Go runtime)
 - Must serve over HTTP, not file:// protocol
 - Takes ~100ms to initialize after loading
+
+## License
+
+This project is free to use under the [Apache License 2.0](./LICENSE).
+
+➡️ You can use it in personal or commercial projects.  
+➡️ You can modify and share it.  
+➡️ Just keep the license notice and give credit.  
+
+It also uses code from [Yaegi](https://github.com/traefik/yaegi), which is under the Apache License 2.0.
