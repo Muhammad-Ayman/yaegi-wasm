@@ -6,6 +6,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC",
+  "license": "Apache-2.0",
   "description": "A CDN package for executing Go code in the browser using Yaegi WebAssembly"
 }
